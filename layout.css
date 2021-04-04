@@ -2,3 +2,11 @@
     background-position-x: 500ex;
  }
  
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 251;
+  width: 100%; 
+  text-align: center;
+}
+ 
